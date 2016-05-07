@@ -17,4 +17,4 @@ The function takes the following arguments:
 
 Try it out in `demo.m`
 
-
+![alt text](https://github.com/cypranowska/animatedFillLine/blob/master/demo.png "demo.png")
